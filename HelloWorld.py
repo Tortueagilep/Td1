@@ -2,7 +2,7 @@
 
 # This file produce some printing
 
-print("Hello world")
+print("Coucou mon petit trou du cul de Baptiste, es-tu bvien allé chercher tes petites culottes a la laverie ?")
 
 
 # We introduce some interaction with the user
